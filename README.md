@@ -12,3 +12,4 @@
 
 - [Netflix Titles](https://www.kaggle.com/shivamb/netflix-shows)
 - [Indian Women](https://www.kaggle.com/imoore/7k-indian-famous-women)
+- [Nifty 500 Stats](https://www.kaggle.com/dhimananubhav/nifty-500-fundamental-statistics)
