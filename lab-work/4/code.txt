@@ -1,0 +1,38 @@
+// MUGILAN - 2019202033
+
+CREATE TABLE stroke (
+  id INT,
+  gender STRING,
+  age INT,
+  hypertension INT,
+  heart_disease INT,
+  ever_married STRING,
+  work_type STRING,
+  Residence_type STRING,
+  avg_glucose_level INT,
+  bmi INT
+);
+
+=================
+
+LOAD DATA LOCAL INPATH 'D:\Lecture_Notes\SemIV\DataScience\Datasets\healthcare-dataset-stroke-data.csv' INTO TABLE stroke;
+
+=================
+
+SELECT COUNT(gender) 
+FROM stroke 
+GROUP BY gender;
+
+=================
+
+SELECT AVG(age)
+FROM stroke;
+
+=================
+
+SELECT *
+FROM stroke
+WHERE age >= 50 
+  AND ever_married == 'No';
+
+=================
