@@ -17,3 +17,4 @@
 - [Property Stolen and Recovered Stat in India](https://www.kaggle.com/rajanand/crime-in-india?select=10_Property_stolen_and_recovered.csv)
 - [Stroke Prediction Dataset](https://www.kaggle.com/fedesoriano/stroke-prediction-dataset)
 - [SUV Dataset](https://www.kaggle.com/iamaniket/suv-data)
+- [Hotel Booking Demand Dataset](https://www.kaggle.com/jessemostipak/hotel-booking-demand)
